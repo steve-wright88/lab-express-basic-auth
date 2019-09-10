@@ -89,20 +89,11 @@ Remember, when a user signs up or logs in, both the username and password fields
 
 Check out the [documentation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Data_form_validation) at MDN. See if you can find a *constraint* that requires the user to fill a field prior to submission.
 
-## Bonus - Password Strength Measurement
-
-Finally, we will add a jQuery plugin to measure the password strength when we sign up in the application. We recommend you to use the [Strength.js](http://jquerycards.com/forms/inputs/strength-js/) library, but feel free to look for another one.
-
-Once finished, the result should be something like this:
-
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_b5907d78d23d2a6757a365df56bd34b9.png)
-
-This is a very common and helpful feature for users, as many do not know anything about password strength.
-
 
 ## Extra Resources
 
 - [HTML5 Form Validations](http://www.the-art-of-web.com/html/html5-form-validation/)
+- [CSS-Tricks: Password Strength Meter](https://css-tricks.com/password-strength-meter/)
 
 
 Happy coding! :heart:
